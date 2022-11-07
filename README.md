@@ -1,5 +1,8 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Maria Luiza and my nickname is "malu-ls"!
+<img align="right" height="500m" src="https://github.com/malu-ls/malu-ls/blob/main/figurinha.jpg"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
 <!--
 **malu-ls/malu-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
