@@ -6,9 +6,9 @@ Dev em horario integral.</h3>
 
 <div>
   <a href="https://github.com/malu-ls">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=malu-ls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malu-ls&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Octocat-pic" height="260" src="./octocat-1668187086001.png">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=malu-ls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malu-ls&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" alt="Octocat-pic" height="280" src="./octocat-1668187086001.png">
   </a>
 </div>
 <br>  <br>  <br>
