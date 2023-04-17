@@ -1,7 +1,6 @@
 # Malu Lopes | Salveee😁✌️
 
-<h3>Profissional de infra em horario comercial<br> 
-Dev em horario integral.</h3>
+<h3>Desenvolvedora Front-end</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
 
 <div>
