@@ -1,6 +1,6 @@
 # Malu Lopes | Salveee😁✌️
 
-<h3>Desenvolvedora Front-end</h3>
+<h3>Dev em Desenvolvimento</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
 
 <div>
