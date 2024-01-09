@@ -1,6 +1,6 @@
 <div style="margin-top:50px"></div>
 
-  <img align="center" alt="Logo Malu" height="360" src="images/Malu.png">
+  <img align="center" alt="Logo Malu" src="images/Malu.png">
   
 <h3>Dev em Desenvolvimento</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
