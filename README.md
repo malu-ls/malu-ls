@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malu-ls&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-<br>  <br>  <br>
+<br>
 
 <h1>Tecnologias</h1>
 
