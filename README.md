@@ -16,8 +16,9 @@
   <a href="https://www.linkedin.com/in/malu-lopes-sil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
+
 <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=malu-ls&show_icons=true&theme=transparent"
