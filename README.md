@@ -1,9 +1,3 @@
-<div align="center">
-  <h1>Malu Lopes</h1>
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
-
 <h1 align="center">Tecnologias</h1>
 
 <div align="center" style="display: inline_block">
@@ -14,7 +8,6 @@
   <img align="center" alt="mysql" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="bootstrap" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
 </div>
-  <br>
 
 <div align="center">
   <h1>Redes</h1>
@@ -23,6 +16,7 @@
   <a href="https://www.linkedin.com/in/malu-lopes-sil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
 <div align="center">
 <picture>
   <source
