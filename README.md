@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Malu Lopes - Dev em Desenvolvimento</h1>
+  <h1>Malu Lopes</h1>
 </div>
 
 
