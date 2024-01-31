@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
 
 <div align="center">
-  [[![card](https://github-readme-stats.vercel.app/api?username=malu-ls&show_icons=true&theme=transparent)](https://github.com/malu-ls)](https://github-readme-stats.vercel.app/api?username=malu-ls&show_icons=true&theme=transparent)](https://github.com/malu-ls)
+  ![card](https://github-readme-stats.vercel.app/api?username=malu-ls&show_icons=true&theme=transparent)](https://github.com/malu-ls)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malu-ls&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
