@@ -1,4 +1,7 @@
-<img style="text-align: center;" alt="Logo Malu" src="images/Malu.png">
+<div style="text-align: center;">
+  <img alt="Logo Malu" src="images/Malu.png">
+</div>
+
   
 <h3 align="center">Dev em Desenvolvimento</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
