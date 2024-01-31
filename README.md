@@ -1,9 +1,8 @@
 <div align="center">
-  <h1>Malu Lopes </> </h1>
+  <h1>Malu Lopes - Dev em Desenvolvimento</h1>
 </div>
 
-  
-<h2 align="center">Dev em Desenvolvimento</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
 
 <div align="center">
