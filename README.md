@@ -1,11 +1,9 @@
-<div style="margin-top:50px"></div>
-
-  <img align="center" alt="Logo Malu" src="images/Malu.png">
+<img align="center" alt="Logo Malu" src="images/Malu.png">
   
-<h3>Dev em Desenvolvimento</h3>
+<h3 align="center">Dev em Desenvolvimento</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malu-ls" alt="Profile views" /> </p>
 
-<div>
+<div align="center">
   <a href="https://github.com/malu-ls">
   <img src="https://github-readme-stats.vercel.app/api?username=malu-ls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malu-ls&layout=compact&langs_count=7&theme=dracula"/>
@@ -13,7 +11,7 @@
 </div>
 <br>
 
-<h1 >Tecnologias</h1>
+<h1 align="center">Tecnologias</h1>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
