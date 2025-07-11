@@ -11,7 +11,6 @@ Olá! 👋 Sou a Malu Lopes.<br>Sou uma desenvolvedora de software focada em fro
 ![](https://github-readme-stats.vercel.app/api?username=malu-ls&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=malu-ls&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malu-ls&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 ---
 
