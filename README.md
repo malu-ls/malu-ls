@@ -1,5 +1,10 @@
 # 💫 Sobre mim:
-Olá! 👋 Sou a Malu Lopes.<br>Sou uma desenvolvedora de software focada em front-end, com paixão por transformar ideias em experiências visuais e funcionais. Minha curiosidade pela tecnologia começou cedo, e hoje me dedico a construir soluções que realmente fazem a diferença.<br><br>Um Pouco Mais Sobre Mim ✨<br>Gosto de praticidade, organização e agilidade para resolver desafios. Tenho um olhar atento para melhorias e adoro otimizar processos. Embora meu foco seja front-end, estou sempre buscando aprender e me desenvolver para ter uma visão completa dos projetos.<br><br>Acredito no poder da tecnologia para transformar vidas e busco criar soluções com impacto real.<br><br>Fora do código, sou movida a música e uma grande fã do universo geek (jogos, livros, séries).<br><br>Vamos Conectar? 💬<br>Se quiser trocar uma ideia sobre desenvolvimento, tecnologia ou cultura dev, sinta-se à vontade para me chamar!
+### Olá! 👋 Sou a Malu Lopes.
+Sou uma desenvolvedora de software focada em front-end, com paixão por transformar ideias em experiências visuais e funcionais. Minha curiosidade pela tecnologia começou cedo, e hoje me dedico a construir soluções que realmente fazem a diferença.
+### Um Pouco Mais Sobre Mim ✨
+Gosto de praticidade, organização e agilidade para resolver desafios. Tenho um olhar atento para melhorias e adoro otimizar processos. Embora meu foco seja front-end, estou sempre buscando aprender e me desenvolver para ter uma visão completa dos projetos.<br><br>Acredito no poder da tecnologia para transformar vidas e busco criar soluções com impacto real.<br><br>Fora do código, sou movida a música e uma grande fã do universo geek (jogos, livros, séries).
+### Vamos Conectar? 💬
+Se quiser trocar uma ideia sobre desenvolvimento, tecnologia ou cultura dev, sinta-se à vontade para me chamar!
 
 
 ## 🌐 Sociais:
