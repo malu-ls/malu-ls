@@ -49,18 +49,6 @@ Desenvolvedora full stack com raízes no front-end e olhar cada vez mais voltado
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=malu-ls&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=malu-ls&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malu-ls&theme=dracula&hide_border=true&include_all_commitout=compact)
-
-</div>
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malu-lopes-sil)
